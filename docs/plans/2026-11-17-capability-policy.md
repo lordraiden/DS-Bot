@@ -1,7 +1,7 @@
 # Per-Bot capability policy over inherited DSH capabilities
 
 - Date: 2026-11-17 (rescoped 2026-11-25)
-- Related: lordraiden/DS-Bot#1, #2, #3, #4; upstream Fei2411/DS-Bot#1341
+- Related: lordraiden/DS-Bot#1, #2, #3, #4; upstream Fei-Craft/DS-Bot#1341
 
 > Draft skeleton. `docs/plans/README.md` asks for Chinese; this draft is in English for review and is translated before the PR (an English plan has precedent: `2026-11-04-local-agents.md`).
 
